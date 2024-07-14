@@ -1,7 +1,7 @@
 # Hi, I´m David👋
 
 ## About me:
-🔰🌟 I am a software engineering student, a future full-stack programmer and ethical hacker, with big aspirations. I am passionate about programming and eager to learn more programming languages to become a great programmer. 🌟🔰
+🔰🌟 I am a software engineering student, a future Full-Stack Developer Programmer and Ethical Hacker, with big aspirations. I am passionate about programming and eager to learn more programming languages to become a great programmer. 🌟🔰
 
 <picture>
   <source
