@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I am David👋
 
 <!--
 **Nunu-DMG09/Nunu-DMG09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
