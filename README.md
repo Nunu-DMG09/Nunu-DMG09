@@ -3,16 +3,13 @@
 <!-- animated neon typing -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=28&pause=1000&background=0b1226&color=00e5ff&width=860&lines=Full-Stack+%7C+Ethical+Hacker;JS+%7C+PHP+%7C+Java+%7C+Node.js" alt="typing" />
 
-<p align="center">
-  <!-- neon separator -->
-  <img src="https://img.shields.io/badge/--Neon%20Blue--?style=for-the-badge&color=00e5ff&labelColor=0b1226" alt="neon" />
-</p>
 
 ## Sobre mi:
 🔰🌟 | Soy estudiante de ingeniería de software, futuro desarrollador/programador full-stack y hacker ético, con grandes aspiraciones. Me apasiona la programación y estoy deseando aprender más lenguajes, buenas practicas, arquitectura,etc. Para ser un gran desarrollador | 🌟🔰
 
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=Nunu-DMG09&show_icons=true&theme=dark&bg_color=0b1226&title_color=00e5ff&icon_color=00e5ff&text_color=8fbcd4" media="(prefers-color-scheme: dark)" />
+
   <img src="https://github-readme-stats.vercel.app/api?username=Nunu-DMG09&show_icons=true&theme=dark&bg_color=0b1226&title_color=00e5ff&icon_color=00e5ff&text_color=8fbcd4" alt="github stats" />
 </picture>
 
@@ -34,12 +31,19 @@
 </p>
 
 ## Contacto
-- Email: davidmesta09@gmail.com
-- Instagram: david.nunu09
+<p>
+  <a href="mailto:davidmesta09@gmail.com" title="Enviar email a David">
+    <img src="https://img.shields.io/badge/✉️-Email-00e5ff?style=for-the-badge&logo=gmail&labelColor=0b1226" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/david.nunu09" target="_blank" rel="noopener" title="Instagram de David">
+    <img src="https://img.shields.io/badge/📸-Instagram-00e5ff?style=for-the-badge&logo=instagram&labelColor=0b1226" alt="Instagram" />
+  </a>
+</p>
 
 ---
 
-Gracias por pasarte por mi perfil — siempre abierto a colaborar y aprender. ¡Hablemos de código! 👨‍💻✨
+Gracias por pasarte por mi perfil — siempre dispuesto a colaborar y aprender. ¡Hablemos de código! 👨‍💻✨
 
 
 
